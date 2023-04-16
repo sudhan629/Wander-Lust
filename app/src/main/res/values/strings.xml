@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Travel Lust</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_bali">BaliActivity</string>
+    <string name="title_activity_paris">ParisActivity</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+</resources>
